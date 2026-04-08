@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "IBCS-scaling-rules-check-YOLO",
+			"path": ".."
+		},
+		{
+			"name": "Compliant",
+			"path": "../../../Downloads/Compliant"
+		},
+		{
+			"name": "Not Compliant",
+			"path": "../../../Downloads/Not Compliant"
+		}
+	],
+	"settings": {}
+}
